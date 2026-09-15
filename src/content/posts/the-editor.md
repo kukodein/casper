@@ -4,7 +4,7 @@ current: post
 class: post-template
 subclass: post
 navigation: true
-title: Using the Ghost editor
+title: 'Using the Ghost editor #2026'
 description: ''
 date: 2017-07-27 09:00:00
 author: ghost
