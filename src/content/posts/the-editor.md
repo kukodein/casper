@@ -1,13 +1,16 @@
 ---
+layout: post
 current: post
-cover:  assets/images/writing.jpg
-navigation: True
-title: Using the Ghost editor
-date: 2017-07-27 09:00:00
-tags: [Getting started]
 class: post-template
-subclass: 'post'
+subclass: post
+navigation: true
+title: Using the Ghost editor 2026
+description: ''
+date: 2017-07-27 09:00:00
 author: ghost
+tags:
+  - Getting started
+cover: assets/images/writing.jpg
 ---
 
 <p>Ghost uses a language called <strong>Markdown</strong> to format text.</p>
@@ -30,7 +33,7 @@ author: ghost
 <p>Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.</p>
 <p><em><strong>Important Note:</strong> Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files <strong>before</strong> uploading them to Ghost.</em></p>
 <h2 id="makinglists">Making lists</h2>
-<p>Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use <code>*</code> or <code>-</code> or <code>+</code>. Like this:</p>
+<p>Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use <code>\*</code> or <code>-</code> or <code>+</code>. Like this:</p>
 <ol>
 <li>Crack the eggs over a bowl</li>
 <li>Whisk them together</li>
