@@ -1,13 +1,14 @@
 ---
 current: post
-cover:  assets/images/welcome.jpg
-navigation: True
-title: Welcome to Ghost
-date: 2017-07-27 10:00:00
-tags: [Getting started]
 class: post-template
-subclass: 'post'
+subclass: post
+navigation: true
+title: "Welcome to Ghost #2026"
+date: 2017-07-27 10:00:00
 author: ghost
+tags:
+  - Getting started
+cover: assets/images/welcome.jpg
 ---
 
 Hey! Welcome to Ghost, it's great to have you :)
