@@ -5,7 +5,7 @@ subclass: post
 navigation: true
 title: "Welcome to Ghost #2026"
 date: 2017-07-27 10:00:00
-author: ghost
+author: amz
 tags:
   - Getting started
 cover: assets/images/welcome.jpg
