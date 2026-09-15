@@ -10,7 +10,7 @@ date: 2017-07-27 10:00:00
 author: amz
 tags:
   - Getting started
-cover: /assets/images/cropped-original-linux-pinguin.jpg
+cover: /assets/images/waves.jpg
 ---
 
 Hey! Welcome to Ghost, it's great to have you :)????
