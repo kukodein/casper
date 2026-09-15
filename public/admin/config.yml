@@ -3,7 +3,7 @@ backend:
   # branch: main
   name: github
   repo: kukodein/casper
-  branch: main
+  branch: kukode
   
 media_folder: "public/assets/images"
 public_folder: "/assets/images"
